@@ -1,0 +1,60 @@
+{
+    "error": false,
+    "data": [
+        {
+            "nombre": "Cadena 100",
+            "url": "https://server8.emitironline.com:18196/stream",
+            "image": "cadena100.jpg"
+        },
+        {
+            "nombre": "Rock FM",
+            "url": "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3",
+            "image": "rockFM.jpg"
+        },
+        {
+            "nombre": "Los 40",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_SC",
+            "image": "los40.jpeg"
+        },
+        {
+            "nombre": "Los 40 Dance",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC",
+            "image": "los40Dance.jpeg"
+        },
+        {
+            "nombre": "Los 40 Classic",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC_SC",
+            "image": "los40Classic.png"
+        },
+        {
+            "nombre": "Radio Flaixbac",
+            "url": "https://flaixbac.streaming-pro.com:8005/flaixbac.mp3",
+            "image": "flaixbac.jpeg"
+        },
+        {
+            "nombre": "Flaix FM",
+            "url": "https://flaixfm.streaming-pro.com:8003/flaixfm.aacp",
+            "image": "flaixFM.png"
+        },
+        {
+            "nombre": "Clásica FM Radio",
+            "url": "https://edge.mixlr.com/channel/asnfw",
+            "image": "clasicaFM.png"
+        },
+        {
+            "nombre": "Europa FM ",
+            "url": "https://livefastly-webs.europafm.com/europafm/audio/master.m3u8",
+            "image": "europaFM.png"
+        },
+        {
+            "nombre": "Elixir FM",
+            "url": "https://radio.grupoelixir.es:9006/stream",
+            "image": "elixirFM.png"
+        },
+        {
+            "nombre": "Melodia FM",
+            "url": "https://live-audio.melodia-fm.com/radio/melodiafm/bitrate_2.m3u8",
+            "image": "melodiaFM.jpeg"
+        }
+    ]
+}
